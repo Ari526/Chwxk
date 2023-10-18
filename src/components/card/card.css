@@ -1,0 +1,28 @@
+/* card.css */
+.card {
+    width: 300px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    text-align: center;
+  }
+  
+  .profile-icon img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 12px;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+    margin: 8px 0;
+  }
+  
+  p {
+    margin: 8px 0;
+  }
+  
